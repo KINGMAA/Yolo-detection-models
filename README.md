@@ -43,14 +43,14 @@ This project showcases various YOLO models for object detection, offering:
 
 Click the links below to open each model directly in Google Colab:
 
-- [YOLOv5 Colab Link](#)
+- [YOLOv5 Colab Link](https://colab.research.google.com/drive/1mKltPrc7sRsBAKiBlAphRXQ-ZUlu9dNB?usp=sharing)
 - [YOLOv6 Colab Link](https://colab.research.google.com/drive/1StMfWZc5ySo-dEMWzsNT8mEfK-lB_jKh?usp=sharing)
 - [YOLOv7 Colab Link](#)
 - [YOLOv8 Colab Link](https://colab.research.google.com/drive/1T8f4NVkVAOIgQmM2Fp72W4jFG8gqzRTk?usp=sharing)
 - [YOLOv9 Colab Link](https://colab.research.google.com/drive/1OsLJUjr6LSLyWLRTF7_deTQ7oiEf1-Xr?usp=sharing)
 - [YOLOv10 Colab Link](https://colab.research.google.com/drive/18R1jOQwOyIo4xzD7yQqwZARLXFMutvnV?usp=sharing)
 - [YOLOv11 Colab Link](https://colab.research.google.com/drive/1xabC6WjQBUzvFOm9owdEeKqNyomeETNB?usp=sharing)
-- [YOLOv12 Colab Link](#)
+- [YOLOv12 Colab Link](https://colab.research.google.com/drive/1cuNhzJlMGi2f3Qbt633lkiVy3G9Uy_tb?usp=sharing)
 - [YOLO World Colab Link](https://colab.research.google.com/drive/1pM7gOI1_0Bn4dRqIZi8uVogRC3vtliDc?usp=sharing)
 
 ## 📂 Files Included
