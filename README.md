@@ -49,7 +49,7 @@ Click the links below to open each model directly in Google Colab:
 - [YOLOv8 Colab Link](#)
 - [YOLOv9 Colab Link](https://colab.research.google.com/drive/1OsLJUjr6LSLyWLRTF7_deTQ7oiEf1-Xr?usp=sharing)
 - [YOLOv10 Colab Link](https://colab.research.google.com/drive/18R1jOQwOyIo4xzD7yQqwZARLXFMutvnV?usp=sharing)
-- [YOLOv11 Colab Link](#)
+- [YOLOv11 Colab Link](https://colab.research.google.com/drive/1xabC6WjQBUzvFOm9owdEeKqNyomeETNB?usp=sharing)
 - [YOLOv12 Colab Link](#)
 - [YOLO World Colab Link](https://colab.research.google.com/drive/1pM7gOI1_0Bn4dRqIZi8uVogRC3vtliDc?usp=sharing)
 
