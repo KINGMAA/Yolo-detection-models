@@ -31,7 +31,7 @@ YOLO is a family of real-time object detection models designed for speed and acc
 
 ## 📐 YOLO Architecture
 
-
+<img src="assets/yolo.png" alt="YOLO Architecture" width="600"/>
 
 This project showcases various YOLO models for object detection, offering:
 
