@@ -23,13 +23,13 @@ This project showcases various YOLO models for object detection, offering:
 Click the links below to open each model directly in Google Colab:
 
 - [YOLOv5 Colab Link](#)
-- [YOLOv6 Colab Link](#)
+- [YOLOv6 Colab Link](https://colab.research.google.com/drive/1StMfWZc5ySo-dEMWzsNT8mEfK-lB_jKh?usp=sharing)
 - [YOLOv7 Colab Link](#)
 - [YOLOv8 Colab Link](#)
-- [YOLOv9 Colab Link](#)
-- [YOLOv10 Colab Link](#)
+- [YOLOv9 Colab Link](https://colab.research.google.com/drive/1OsLJUjr6LSLyWLRTF7_deTQ7oiEf1-Xr?usp=sharing)
+- [YOLOv10 Colab Link](https://colab.research.google.com/drive/18R1jOQwOyIo4xzD7yQqwZARLXFMutvnV?usp=sharing)
 - [YOLOv11 Colab Link](#)
-- [YOLO World Colab Link](#)
+- [YOLO World Colab Link](https://colab.research.google.com/drive/1pM7gOI1_0Bn4dRqIZi8uVogRC3vtliDc?usp=sharing)
 
 ## 📂 Files Included
 
@@ -46,6 +46,9 @@ Each model is evaluated on key metrics such as:
 - **Model Size**
 
 ## 🛠️ Installation & Usage
+
+### ⚠️ Important Dataset Configuration
+After downloading the dataset, ensure you update the **`data.yaml`** file to reflect the correct paths for `train`, `test`, and `valid` sets.
 
 1. Clone the repository:
    ```bash
