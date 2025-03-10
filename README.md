@@ -13,6 +13,26 @@ This repository provides implementations and resources for various YOLO models, 
 
 ## 📋 Project Overview
 
+## 🔍 What is Object Detection?
+Object detection is a computer vision technique used to identify and locate objects within an image or video. Unlike image classification, object detection predicts both **what** objects are present and **where** they are located (bounding boxes).
+
+### Key Components of Object Detection
+- **Bounding Boxes:** Rectangles drawn around detected objects with coordinates for position and size.
+- **Confidence Score:** A probability indicating how certain the model is about the detected object.
+- **Class Label:** The category to which the detected object belongs.
+
+## 🧠 Introduction to YOLO (You Only Look Once)
+YOLO is a family of real-time object detection models designed for speed and accuracy. Unlike traditional methods that apply a sliding window or region proposal network, YOLO predicts bounding boxes and class probabilities directly from an image in a single pass.
+
+### Key Advantages of YOLO
+✅ **Fast Inference:** Ideal for real-time applications.
+✅ **End-to-End Prediction:** Simultaneously predicts class labels and bounding boxes.
+✅ **Versatile Architecture:** Suitable for various computer vision tasks.
+
+## 📐 YOLO Architecture
+
+
+
 This project showcases various YOLO models for object detection, offering:
 
 - Ready-to-use **Colab links** for fast deployment.
